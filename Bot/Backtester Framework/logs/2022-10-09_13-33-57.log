@@ -1,0 +1,5 @@
+2022-10-09 13:33:57.915 | INFO     | Bot:start:29 - Starting bot
+2022-10-09 13:33:57.916 | INFO     | PriceDataLoader:load:40 - DataLoader: Starting data load at 2022-10-09 for symbol BTC-USD
+2022-10-09 13:33:57.916 | INFO     | PriceDataLoader:fetch_coin_price_data:27 - DataLoader: Fetching data for symbol BTC-USD
+2022-10-09 13:33:58.685 | INFO     | Broker:check_order_status:66 - Checking order status
+2022-10-09 13:33:58.686 | INFO     | Bot:start:41 - <Broker: Cash: 10000 Orders: 0 Trades: 0 Closed Trades: 0 Open Trades P&L: 0 Closed Trades P&L: 0>
