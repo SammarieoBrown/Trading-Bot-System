@@ -1,3 +1,0 @@
-2022-10-09 13:28:58.944 | INFO     | Bot:start:29 - Starting bot
-2022-10-09 13:28:58.945 | INFO     | PriceDataLoader:load:40 - DataLoader: Starting data load at 2022-10-09 for symbol BTC-USD
-2022-10-09 13:28:58.945 | INFO     | PriceDataLoader:fetch_coin_price_data:27 - DataLoader: Fetching data for symbol BTC-USD
